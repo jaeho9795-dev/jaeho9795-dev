@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 **Education**: 한신대학교 1학년 (학번: 202678243)
-- 🧪 **Laboratory**: **DEL (Data Engineering Lab)** 학부 연구생
+- 🧪 **Laboratory**: **DEL** 학부 연구생
 - 🧩 **Personality**: 계획적이고 성실한 **ISTJ** | 논리적인 문제 해결을 즐깁니다.
 - 🛠️ **Motto**: 외부의 시선보다 스스로 만드는 즐거움과 내면의 성장을 중시합니다.
 
