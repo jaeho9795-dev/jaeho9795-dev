@@ -3,44 +3,49 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Hanshin%20University-202678243-006400?style=flat-square&logo=gitbook&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lab-DEL%20(Data%20Engineering%20Lab)-blue?style=flat-square&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grade-1st%20Year-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MBTI-ISTJ-AFEEEE?style=flat-square&logo=psychology&logoColor=black"/>
 </p>
 
 ### 👨‍💻 About Me
-- 🎓 **Education**: 한신대학교 (Hanshin University) 1학년 (학번: 202678243)
-- 🧪 **Laboratory**: **DEL (Data Engineering Lab)** 소속 학부 연구생
-- 🎯 **Interest**: 데이터 엔지니어링, 알고리즘, 시스템 아키텍처
-- 🛠️ **Current Focus**: 개발의 즐거움을 찾고 내면의 성장을 중시하는 신입 개발자입니다.
+- 🎓 **Education**: 한신대학교 1학년 (학번: 202678243)
+- 🧪 **Laboratory**: **DEL (Data Engineering Lab)** 학부 연구생
+- 🧩 **Personality**: 계획적이고 성실한 **ISTJ** | 논리적인 문제 해결을 즐깁니다.
+- 🛠️ **Motto**: 외부의 시선보다 스스로 만드는 즐거움과 내면의 성장을 중시합니다.
+
+---
+
+### ⚽ Interests & Hobbies
+> **공부 외에도 이런 것들을 좋아합니다!**
+
+- 🏃 **Soccer**: 직접 뛰는 축구와 전략적인 경기 관람을 좋아합니다. 팀워크의 가치를 소중히 여깁니다.
+- 🎮 **Gaming**: 다양한 장르의 게임을 즐기며, 게임 속 시스템 구조와 데이터 흐름에도 관심이 많습니다.
+- 📚 **Learning**: 새로운 기술을 배우고 나만의 결과물을 만들어내는 과정에서 큰 만족감을 얻습니다.
 
 ---
 
 ### 🛠 Tech Stack
-> **관심 있거나 학습 중인 기술 스택입니다.**
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaeho9795-dev&show_icons=true&theme=radical" alt="Jaeho's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaeho9795-dev&theme=radical" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaeho9795-dev&show_icons=true&theme=dark" alt="Jaeho's GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaeho9795-dev&theme=dark" alt="GitHub Streak" height="150" />
 </p>
 
 ---
 
-### 📝 Latest Blog Posts / Activities
-- 📅 2026.03 ~ 한신대학교 입학 및 DEL 연구실 활동 시작
-- 💻 다양한 오픈소스 기여 및 개인 프로젝트 진행 중
+### 🐣 Activity Calendar
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaeho9795-dev&theme=react-dark)
 
 ---
 
 <p align="center">
   <b>Contact Me</b><br>
-  <a href="mailto:본인의이메일@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:jaeho9795@hs.ac.kr"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
