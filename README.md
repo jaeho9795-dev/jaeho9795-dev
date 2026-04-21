@@ -28,8 +28,8 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=본인의_깃허브_아이디&show_icons=true&theme=radical" alt="Jaeho's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=본인의_깃허브_아이디&theme=radical" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaeho9795-dev&show_icons=true&theme=radical" alt="Jaeho's GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaeho9795-dev&theme=radical" alt="GitHub Streak" height="150" />
 </p>
 
 ---
