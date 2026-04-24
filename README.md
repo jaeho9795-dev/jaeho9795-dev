@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052CC&height=250&section=header&text=한신대학교%201학년%20최재호입니다&fontSize=45&animation=fadeIn&fontColor=FFFFFF&desc=⚽%20Soccer%20&%20AI%20Software%20Developer&descAlignY=70&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052CC&height=250&section=header&text=한신대학교%201학년%20최재호입니다&fontSize=45&animation=fadeIn&fontColor=FFFFFF" width="100%" />
 </p>
 
 # 👋 Hello, I'm Jaeho Choi (최재호)
